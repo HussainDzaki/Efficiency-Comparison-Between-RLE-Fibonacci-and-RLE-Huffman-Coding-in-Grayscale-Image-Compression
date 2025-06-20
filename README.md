@@ -22,4 +22,4 @@ These methods are evaluated on two image scales: a **small 800-bit synthetic tes
 ├── Makalah.py              # All combined file (so messy)
 ├── Gajah_Gray_scale.png    # Example grayscale image used for testing
 └── README.md               # This file
-a
+
