@@ -12,7 +12,7 @@ The project explores and compares multiple lossless image compression techniques
 - **RLE + Huffman Encoding**
 - **Basic RLE using fixed-length binary encoding**
 
-These methods are evaluated on two image scales: a **small 800-bit synthetic test** and a **large 1,036,800-bit real image**, with analysis of compression ratio and size reduction.
+These methods are evaluated on two image scales: a **small 800-bit test**  with analysis of compression ratio and size reduction.
 
 ## 📁 Repository Structure
 ├── compress_fibonacci.py   # RLE + Fibonacci encoding implementation
